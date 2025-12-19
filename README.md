@@ -9,3 +9,5 @@
 - Q7. How is the price affected when tickets are boughts in just 1 or 2 days before departure?
 - Q8. How does the ticket price vary between economy  and business class?
 - Q9. what will be the average price of vistra airline for a flight from Delhi to hyderabad in Business Class?
+
+### 서비스 이용 패턴이 고객 이탈에 미치는 영향 분석
